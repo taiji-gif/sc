@@ -1,0 +1,6 @@
+{
+  "name": "순천여정 — 대한민국 생태수도 순천 관광 안내",
+  "description": "순천만습지, 국가정원, 낙안읍성, 선암사를 비롯한 순천시의 대표 명소와 계절별 매력, 추천 코스, 미식 정보를 담은 공식 스타일 여행 큐레이션 가이드입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
